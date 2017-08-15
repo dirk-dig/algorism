@@ -1,0 +1,39 @@
+Monochrome TV deals with the first three factors. Color TV includes all four factors.
+A video transmission system must convert these three (or four) factors into electrical
+equivalents. The first three factors are integrated to an equivalent electric current or
+voltage whose amplitude is varied with time. Essentially, at any one moment it must
+integrate luminance from a scene in the three dimensions (i.e., width, height, and depth)
+as a function of time. And time itself is still another variable, for the scene is changing
+in time.
+The process of integration of visual intelligence is carried out by scanning. The horizontal
+detail of a scene is transmitted continuously and the vertical detail discontinuously.
+The vertical dimension is assigned discrete values that become the fundamental
+limiting factor in a video transmission system.
+The scanning process consists of taking a horizontal strip across the image on which
+discrete square elements called pels or pixels (picture elements) are scanned from left to
+right. When the right-hand end is reached, another, lower, horizontal strip is explored,
+and so on, until the whole image has been scanned. Luminance values are translated on
+each scanning interval into voltage and current variations and are transmitted over the
+system. The concept of scanning by this means is illustrated in Figure 14.1.
+The National Television Systems Committee (U.S.) (NTSC) practice divides an image
+into 525 horizontal scanning lines.1 It is the number of scanning lines that determines
+the vertical detail or resolution of a picture.
+When discussing picture resolution, the aspect ratio is the width-to-height ratio of
+the video image (see Section 14.2.1).2 The aspect ratio used almost universally is 4 : 3.3
+In other words, a TV image 12 in. wide would necessarily be 9 in. high. Thus an image
+divided into 525 (491) vertical elements would then have 700 (652) horizontal elements
+to maintain an aspect ratio of 4 : 3. The numbers in parentheses represent the practical
+maximum active lines and elements. Therefore, the total number of elements approaches
+something on the order of 250,000. We reach this number because, in practice, the vertical
+detail reproduced is 64–87% of the active scanning lines. A good halftone engraving
+may have as many as 14,400 elements per square inch, compared to approximately 3000
+elements per square inch for a 9-in. by 12-in. TV image.
+Motion is another variable factor that must be transmitted. The sensation of continuous
+motion, standard TV video practice, is transmitted to the viewer by a successive
+display of still pictures at a regular rate similar to the method used in motion pictures.
+The regulate rate of display is called the frame rate. A frame rate of 25 frames per
+second will give the viewer a sense of motion, but on the other hand he/ she will be
+disturbed by luminance flicker (bloom and decay), or the sensation that still pictures are
+“flicking” on screen one after the other. To avoid any sort of luminance flicker sensation,
+the image is divided into two closely interwoven (interleaving) parts, and each part is
+presented in succession at a rate of 60 frames per second, even though complete pic-S
